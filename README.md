@@ -29,8 +29,9 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Usage 
 
-Link to walkthrough video: 
+Link to walkthrough video: https://youtu.be/lHqlel9YCwA?si=eB-d-zT94ofQerIb
 
+![Alt text](ORM.png)
 
 ## Contribution 
 
